@@ -14,13 +14,13 @@ export default [
         input: './src/index.ts',
         plugins: [typescript(), commonjs(), resolve()],
         output: [
-            {file: 'dist/index.js', format: 'es'}
+            {file: 'dist/index.js', format: 'cjs'}
         ]
     }, {
         input: './src/action.ts',
         plugins: [typescript(), commonjs(), resolve()],
         output: [
-            {file: 'dist/action.js', format: 'es'}
+            {file: 'dist/action.js', format: 'cjs'}
         ]
     }
 ];

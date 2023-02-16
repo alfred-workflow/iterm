@@ -1,8 +1,7 @@
 {
     "name": "@alfred-workflows/iterm",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Alfred workflow for iTerm",
-    "type": "module",
     "files": [
         "dist",
         "README.md"
