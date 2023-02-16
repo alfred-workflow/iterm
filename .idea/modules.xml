@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/@alfred-workflows/iterm.iml" filepath="$PROJECT_DIR$/.idea/@alfred-workflows/iterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iterm.iml" filepath="$PROJECT_DIR$/.idea/iterm.iml" />
     </modules>
   </component>
 </project>
