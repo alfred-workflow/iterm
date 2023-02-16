@@ -26,7 +26,6 @@
     },
     "license": "ISC",
     "devDependencies": {
-        "@alfred-workflows/core": "^1.0.3",
         "@apple-jxa/cli": "0.0.8",
         "@apple-jxa/node": "0.0.10",
         "@apple-jxa/types": "0.0.5",
@@ -42,5 +41,8 @@
         "ts-node": "^10.8.2",
         "tslib": "^2.5.0",
         "typescript": "^4.7.2"
+    },
+    "dependencies": {
+        "@alfred-workflows/core": "^1.0.3"
     }
 }
