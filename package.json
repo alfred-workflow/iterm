@@ -1,6 +1,6 @@
 {
     "name": "@alfred-workflows/iterm",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Alfred workflow for iTerm",
     "type": "module",
     "files": [
@@ -43,6 +43,6 @@
         "typescript": "^4.7.2"
     },
     "dependencies": {
-        "@alfred-workflows/core": "^1.0.3"
+        "@alfred-workflows/core": "^1.0.4"
     }
 }
